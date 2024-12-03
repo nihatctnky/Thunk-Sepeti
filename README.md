@@ -31,8 +31,7 @@ Bu sayede API çağrıları ile sepet verileri asenkron olarak alınabilir ve uy
 # Ekran GİF
                 
           
-         
-     ![Video Screen1733253800095 (2)](https://github.com/user-attachments/assets/08712d5e-c8cf-4a3d-8f94-1d733dd3d94e)
-  
-         
+    
+         ![Video Screen1733256153593 (1)](https://github.com/user-attachments/assets/b4c7a846-9efb-409b-baff-4e88ba654abc)
+
         
